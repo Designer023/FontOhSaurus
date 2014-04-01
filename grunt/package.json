@@ -1,0 +1,9 @@
+{
+  "name": "FontOhSaurus",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-webfont": "^0.3.4",
+    "grunt-notify": "^0.2.20"
+  }
+}
